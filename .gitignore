@@ -1,0 +1,4 @@
+.exercism
+/exercises.txt
+*.iml
+.idea/
